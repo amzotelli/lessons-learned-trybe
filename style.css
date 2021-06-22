@@ -1,32 +1,33 @@
 * {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-    top: 0;
+  top: 0;
+  position:fixed;
 }
 
 #titulo {
-    text-align: center;
-    background-color: aqua;
+  text-align: center;
+  background-color: aqua;
 }
 
 #subtitulo {
-    text-align: center;
-    background-color: aqua;
+  text-align: center;
+  background-color: aqua;
 }
 
 #minha_foto {
-    width: 200px;
+  width: 200px;
 }
 
 #licoes_aprendidas { 
-    color:black;
+  color:black;
 }
 
 #container-cabecalho {
-    font-size: 22px;
-    font-variant-caps: all-small-caps;
-    line-height: 10px;
+  font-size: 22px;
+  font-variant-caps: all-small-caps;
+  line-height: 10px;
 
 }
