@@ -4,8 +4,6 @@
 
 #cabecalho {
     top: 0;
-    position:fixed;
-
 }
 
 #titulo {
@@ -27,7 +25,7 @@
 }
 
 #container-cabecalho {
-       font-size: 22px;
+    font-size: 22px;
     font-variant-caps: all-small-caps;
     line-height: 10px;
 
