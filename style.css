@@ -1,5 +1,24 @@
-body {
+* {
+    background-color: rgb(253, 251, 251);
+}
 
- color: rgb(253, 251, 251);
+#cabecalho {
+       top: 0;
+       background-color: aqua;
+       padding: 10px;
+      background-clip: content-box;
 
+}
+
+.container-cabecalho {
+    background-color: aqua;
+    padding: 10px 30px 0;
+}
+
+#titulo {
+    background-color: aqua;
+}
+
+.container-cabecalho h2 {
+    background-color: aqua;
 }
