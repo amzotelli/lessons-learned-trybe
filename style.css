@@ -5,6 +5,7 @@
 #cabecalho {
   top: 0;
   position: fixed;
+  width: 1366px;
 }
 
 #titulo {
@@ -18,7 +19,12 @@
 }
 
 #minha_foto {
-  width: 200px;
+  float: left;
+  position: absolute;
+  margin-top: 200px;
+  border-radius: 100%;
+  padding: 20px;
+  max-width: 150px;
 }
 
 #licoes_aprendidas {
